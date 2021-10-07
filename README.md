@@ -1,2 +1,2 @@
-# 6688.github.io
+# 6688SUN.github.io
 A quick solution for Web developers
